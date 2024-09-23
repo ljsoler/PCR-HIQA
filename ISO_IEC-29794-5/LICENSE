@@ -1,0 +1,29 @@
+License Agreement
+Copyright (c) 2022 Norwegian Biometrics Laboratory (NBL), Norwegian University of Science and Technology (NTNU)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+-   [1] and [2] are cited in any paper or publication that makes any use of this Software; 
+-   relevant research work using this Software should follow academic ethical principles;
+-   the above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+[1] P. Wasnik, K. Raja, R. Raghavendra, C. Busch: "Assessing Face Image Quality for Smartphone based Face Recognition System", in Proceedings of 5th International Workshop on Biometrics and Forensics (IWBF 2017), Coventry, UK, April 4-5, (2017).
+
+[2] H. Zhang, M. Grimmer, R. Raghavendra, K.Raja, C.Busch: "On the
+Applicability of Synthetic Data for Face Recognition", in Proceedings of
+9th International Workshop on Biometrics and Forensics (IWBF 2021),
+Rome, IT, May 6-7, (2021)
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

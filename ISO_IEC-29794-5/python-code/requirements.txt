@@ -1,0 +1,10 @@
+pandas==1.0.5
+scipy==1.4.1
+pydot==1.4.1
+cmake
+dlib
+mtcnn==0.1.0
+opencv_python==4.1.2.30
+numpy==1.18.1
+Pillow
+scikit_learn==0.23.2
