@@ -44,9 +44,9 @@ Set the following in the config.py
 4. Run ./run_PCR.sh
 <hr/>
 
-## You can also train and evaluate CR-FIQA, as the PCR-HIQA implementation is based on the [CR-FIQA](https://github.com/fdbtrs/CR-FIQA) official repository. 
+### You can also train and evaluate CR-FIQA, as the PCR-HIQA implementation is based on the [CR-FIQA](https://github.com/fdbtrs/CR-FIQA) official repository. 
 
-## The pretrained model for the best parameter configuration of PCR-HIQA can be found in ./weights
+### The pretrained model for the best parameter configuration of PCR-HIQA can be found in ./weights
 
 ## Evaluation ##
 To extract hand image quality scores, use the following script
