@@ -73,4 +73,4 @@ If you use any of the code provided in this repository or the models provided, p
 
 This project is licensed under the terms of the Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license. 
 
-Copyright (c) 2024 Hochschule Darmstadt and Fraunhofer Institute for Computer Graphics Research IGD Darmstadt
+Copyright (c) 2024 Hochschule Darmstadt, Darmstadt, Germany
