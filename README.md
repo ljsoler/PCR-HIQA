@@ -31,7 +31,7 @@
 
 ```  
 
-3. crop the hand ROI using the script in ./utils/get_gestures.py 
+3. preprocess HaGrid training and test set using the script in ./utils/get_gestures.py 
 4. pip install -r requirements.txt
 5. All code are trained and tested using PyTorch 1.13
 Details are under (Torch)[https://pytorch.org/get-started/locally/]
